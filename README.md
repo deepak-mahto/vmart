@@ -1,1 +1,1 @@
-# Vmart - An e-commerce app
+# Vmart - An e-commerce website
